@@ -1,0 +1,13 @@
+package kr.ac.kopo.EurekaServerProduct;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EurekaServerProductApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EurekaServerProductApplication.class, args);
+	}
+
+}

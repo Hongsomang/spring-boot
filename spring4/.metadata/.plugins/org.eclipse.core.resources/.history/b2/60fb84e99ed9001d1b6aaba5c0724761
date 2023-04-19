@@ -1,0 +1,13 @@
+package kr.ac.kopo.EurekaServerCustomer;
+
+import java.util.List;
+
+public class CustomerImpl implements CustomerService {
+
+	@Override
+	public List<Customer> list() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

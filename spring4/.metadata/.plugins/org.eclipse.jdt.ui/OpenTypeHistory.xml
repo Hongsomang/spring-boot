@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=BookeShop-Oracle/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;kr.ac.kopo.Bookshop.Service{BookService.java[BookService" modifiers="513" timestamp="1680496772493"/>
+    <typeInfo handle="=StarCafe-kiosk/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;kr.ac.kopo.starcafekiosk.service{OrderService.java[OrderService" modifiers="513" timestamp="1680744728105"/>
+    <typeInfo handle="=StarCafe-kiosk/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;kr.ac.kopo.starcafekiosk.dao{OrderDao.java[OrderDao" modifiers="513" timestamp="1680745147256"/>
+    <typeInfo handle="=EurekaServerCustomer/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;kr.ac.kopo.EurekaServerCustomer{CustomerService.java[CustomerService" modifiers="513" timestamp="1681351146247"/>
+    <typeInfo handle="=EurekaServerCustomer/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;kr.ac.kopo.EurekaServerCustomer{CustomerDao.java[CustomerDao" modifiers="513" timestamp="1681351204758"/>
+    <typeInfo handle="=EurekaServerCustomer/C:\/Users\/Student\/.m2\/repository\/org\/springframework\/spring-web\/5.2.9.RELEASE\/spring-web-5.2.9.RELEASE.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-web=/=/maven.version=/5.2.9.RELEASE=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.http.codec(CodecConfigurer$CustomCodecs.class[CustomCodecs" modifiers="1545" timestamp="1681349032559"/>
+</typeInfoHistroy>

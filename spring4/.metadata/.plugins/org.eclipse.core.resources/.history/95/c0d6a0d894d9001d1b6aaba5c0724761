@@ -1,0 +1,5 @@
+package kr.ac.kopo.EurekaServer;
+
+public interface ProductDao {
+
+}

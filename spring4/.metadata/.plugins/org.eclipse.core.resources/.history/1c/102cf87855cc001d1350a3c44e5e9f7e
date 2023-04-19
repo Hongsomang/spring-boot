@@ -1,0 +1,24 @@
+package kr.ac.kopo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+
+@ComponentScan("kr.ac.kopo")
+@SpringBootApplication
+public class HelloBootApplication {
+
+	@Bean
+	HelloService service() {
+		return new HelloService();
+	}
+	
+	public static void main(String[] args) {
+		
+		System.out.println(service.msg());
+		SpringApplication.run(HelloBootApplication.class, args);
+	}
+
+}

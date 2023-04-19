@@ -1,0 +1,27 @@
+INDEX VERSION 1.131
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2341713948.index
+\StarCafe-kiosk\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3074933488.index
+\HelloBoot-JSP\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\604086969.index
+\BookeShop-Oracle\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3803469375.index
+\StarCafe\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1819085032.index
+\HelloBootConfig\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1229304767.index
+\StarCafe\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3690961280.index
+\BookeShop-Oracle\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700543436.index
+\StarCafe\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3922744675.index
+\HelloBoot-JSP\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3987727130.index
+\HelloBoot-JSP\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1368792054.index
+\HelloBootConfig\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1493101488.index
+\StarCafe\src\main\java
+D:\hongsomang\spring4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\677173680.index
+\StarCafe\src\main\java
