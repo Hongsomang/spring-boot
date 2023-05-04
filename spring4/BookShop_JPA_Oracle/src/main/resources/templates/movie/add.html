@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+	<div>
+		<h3>영화 등록</h3>
+		<div>
+			<form method="post" enctype="multipart/form-data">
+				<div>
+					<label>영화명:</label>
+					<input type="text" name="title">
+				</div>
+				<div>
+					<label>감독:</label>
+					<input type="text" name="director">
+				</div>
+				<div>
+					<label>장르:</label>
+					<input type="text" name="genre">
+				</div>
+				<div>
+					<label>개봉일:</label>
+					<input type="date" name="openDate">
+				</div>
+				<div>
+					<label>첨부파일:</label>
+					<ul>
+						<li><input type="file" name="uploadFile"></li>
+					</ul>
+				</div>
+				<div>
+					<button>등록</button>
+					<a href="list"><button type="button">취소</button></a>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,9 +1,0 @@
-package kr.ac.kopo.EurekaServer;
-
-import java.util.List;
-
-public interface ProductService {
-
-	List<Product> list();
-
-}
