@@ -30,7 +30,7 @@ public class Movie {
 	private Date openDate;
 	
 	@OneToMany
-	//@JoinColumn(name = "movie_id",insertable = false, updatable = false)
+	@JoinColumn(name = "movie_id",insertable = false, updatable = false)
 	private List<Attach> attach;
 
 

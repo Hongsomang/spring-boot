@@ -21,7 +21,7 @@ public class Attach {
 	private String uuid;
 	
 	@ManyToOne
-	//@JoinColumn(name="movie_id", insertable = false,updatable =false)
+	@JoinColumn(name="movie_id", insertable = false,updatable =false)
 	private Movie movie;
 
 	
