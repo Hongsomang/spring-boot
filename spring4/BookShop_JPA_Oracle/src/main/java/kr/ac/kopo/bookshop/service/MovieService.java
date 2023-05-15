@@ -16,4 +16,6 @@ public interface MovieService {
 
 	void delete(int movieId);
 
+	void attachDelete(int attachId);
+
 }

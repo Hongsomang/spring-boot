@@ -10,4 +10,6 @@ public interface AttachDao extends Repository<Attach, Integer> {
 
 	void deleteById(int attachId);
 
+	Attach findOneByAttachId(int attachId);
+
 }

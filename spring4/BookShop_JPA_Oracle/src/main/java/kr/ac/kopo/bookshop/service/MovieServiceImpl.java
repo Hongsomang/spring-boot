@@ -68,11 +68,28 @@ public class MovieServiceImpl implements MovieService {
 		for(Attach attach :item.getAttach()) {
 			String filename=attach.getFilename();
 			String uuid=attach.getUuid();
-			File file=new File(uploadPath + uuid+ filename);
+			File file=new File(uploadPath + uuid+"_"+ filename);
 			file.delete();
 			attachDao.deleteById(attach.getAttachId());
 		}
 		dao.deleteById(movieId);
+	}
+
+	@Override
+	public void attachDelete(int attachId) {
+		// TODO Auto-generated method stub
+		Attach attach=attachDao.findOneByAttachId(attachId);
+		
+		String filename=attach.getFilename();
+		String uuid=attach.getUuid();
+		
+		File file=new File(uploadPath + uuid+"_"+ filename);
+		file.delete();
+		attachDao.deleteById(attachId);
+			
+	
+		 
+		
 	}
 
 }

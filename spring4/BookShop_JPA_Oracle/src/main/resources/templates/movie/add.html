@@ -3,6 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <title></title>
+<script type="text/javascript">
+	window.onload = e =>{
+		const button=document.getElementById("add");
+		const ul=document.getElementById("files");
+		
+		button.addEventListener("click",e =>{
+			const li =document.createElement("li");
+			const input=document.createElement("input");
+			
+			input.setAttribute("type","file");
+			input.setAttribute("name","uploadFile");
+			
+			li.append(input);
+			ul.append(li);
+		});
+	}
+</script>
 </head>
 <body>
 	<div>
@@ -26,8 +43,9 @@
 					<input type="date" name="openDate">
 				</div>
 				<div>
-					<label>첨부파일:</label>
-					<ul>
+					<label>첨부파일: <button type="button" id="add">추가</button></label>
+					
+					<ul id="files">
 						<li><input type="file" name="uploadFile"></li>
 					</ul>
 				</div>
