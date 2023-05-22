@@ -16,7 +16,7 @@ import kr.ac.kopo.bookshop.service.GoodsService;
 
 @Controller
 @RequestMapping("/goods")
-public class GoodsController {
+public class GoodsController{
 	final String path="goods/";
 	
 	@Autowired
